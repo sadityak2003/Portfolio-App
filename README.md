@@ -6,7 +6,7 @@ This app will basically tell you about me , my projects, my achievements, my int
 So, If you liked it plz upvote me.
 Keep Intact to get more projects like this in future.
 
-Developer: Aditya Kumar Singh (cc code: 2003.1)
+Developer: Aditya Kumar Singh (crc: 22.03.2003.1)
 
 ## Getting Started
 
