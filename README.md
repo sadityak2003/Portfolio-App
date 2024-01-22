@@ -1,7 +1,7 @@
 # portfolio
 
 Hi! My Techies
-I have uploaded a brand new project "PORTFOLIO APP" using the knowledge of FLUTTER, DART, OOPS, ANDROID STUDIO.
+I have uploaded a brand new project "PORTFOLIO APP" using the knowledge of FLUTTER, DART, OOPS, ANDROID STUDIO, C++.
 This app will basically tell you about me , my projects, my achievements, my interests & more.
 So, If you liked it plz upvote me.
 Keep Intact to get more projects like this in future.
